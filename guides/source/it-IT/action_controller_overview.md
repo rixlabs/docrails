@@ -1,5 +1,5 @@
-Action Controller Overview
-==========================
+Panoramica di Action Controller
+===============================
 
 In quetsa guida imparerai come lavorano i controller e dove si collocano nel ciclo delle richieste della tua applicazione.
 
